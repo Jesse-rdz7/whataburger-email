@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+
+  </mj-head>
+
+
+
+
+
+
+
+
+  <mj-body>
+    <mj-raw>
+      <!-- Header Logo -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-image href="" src="https://braze-images.com/appboy/communication/assets/image_assets/images/64302f405b7d59004ae454eb/original.png?1680879424" />
+      </mj-column>
+      <mj-column>
+        <mj-image padding="30px" href="" src="https://braze-images.com/appboy/communication/assets/image_assets/images/63d41bd51648e84a0d91dd74/original.png?1674845141" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Rewards & Promotional Text -->
+    </mj-raw>
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column padding="0px">
+        <mj-image href="#" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6515eb4cf11e2d004c809c4e/original.png?1695935307" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Text with Rules Link -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0 40px" align="center" color="#9D9999" font-weight="">Limitations apply. Alternative, non-purchase method of entry available.
+          Void where prohibited. <a href="#" style="color:#F38E05; font-weight:bold;">See official rules.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section css-class="footer_pad" padding="0 25px" background-color="#ffffff">
+      <mj-group width="25%" background-color="#F8F5F5">
+        <mj-column>
+          <mj-spacer height="57px" />
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%" css-class="icons-size" background-color="#F8F5F5">
+        <mj-column padding="15px">
+          <mj-image padding="0 0" href="" src="https://braze-social-icons.s3.amazonaws.com/social-networks-icon-sets/circle-dark-gray/facebook@2x.png" width="27px" height="27px" alt="facebook" />
+        </mj-column>
+        <mj-column padding="15px">
+          <mj-image padding="0 0px" href="" src="https://braze-social-icons.s3.amazonaws.com/social-networks-icon-sets/circle-dark-gray/twitter@2x.png" width="27px" height="27px" alt="X" />
+        </mj-column>
+        <mj-column padding="15px">
+          <mj-image padding="0 0px" href="" src="https://braze-social-icons.s3.amazonaws.com/social-networks-icon-sets/circle-dark-gray/instagram@2x.png" width="27px" height="27px" alt="instagram" />
+        </mj-column>
+        <mj-column padding="15px">
+          <mj-image padding="0 0px" href="" src="https://braze-social-icons.s3.amazonaws.com/social-networks-icon-sets/circle-dark-gray/tiktok@2x.png" width="27px" height="27px" alt="tik-tok" />
+        </mj-column>
+
+      </mj-group>
+      <mj-group width="25%" background-color="#F8F5F5">
+        <mj-column>
+          <mj-spacer height="57px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Footer Links -->
+    </mj-raw>
+
+    <mj-section background-color="#ffffff" padding="0 25px">
+      <mj-column background-color="#F8F5F5">
+        <mj-text padding="0 40px 20px" align="center"> <a href="#" style="color:#333333; font-weight:normal;">Privacy Policy.</a>
+        </mj-text>
+      </mj-column >
+      <mj-column background-color="#F8F5F5">
+        <mj-text padding="0 0 20px" align="center"> <a href="#" style="color:#333333; font-weight:normal;">Terms & Conditions</a>
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#F8F5F5">
+        <mj-text padding="0 40px 20px" align="center"> <a href="#" style="color:#333333; font-weight:normal;">Unsuscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 25px">
+      
+      <mj-column  background-color="#F8F5F5">
+        <mj-text padding="0 40px 20px" align="center"> &copy;2023 Whatabrands LLC, All Rights Reserved.
+          300 Concord Plaza, San Antonio, TX 78216
+        </mj-text>
+      </mj-column>
+      
+      </mjsection>
+
+
+
+
+
+
+
+  </mj-body>
+
+
+
+</mjml>
